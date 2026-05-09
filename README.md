@@ -21,29 +21,29 @@ Unlike traditional ML projects that rely entirely on TensorFlow or Scikit-learn 
 
 # 📓 Kaggle / Notebook
 
-🔗 [Add Your Kaggle Notebook Link Here]
+🔗 [https://www.kaggle.com/code/aryansharma790/nn-from-scratch-for-placement-prediction]
 
 ---
 
 # 🖼️ Project Preview
 
 ## Main Interface
-![App UI](ADD_IMAGE_LINK_HERE)
+![App UI](<img width="815" height="895" alt="Image" src="https://github.com/user-attachments/assets/72636226-f929-4f48-a2a6-f3506fb388f8" />)
 
 ---
 
 ## Voice Prediction Demo
-![Voice Demo](ADD_IMAGE_LINK_HERE)
+![Voice Demo](<img width="756" height="933" alt="Image" src="https://github.com/user-attachments/assets/c1980225-5c7d-44a4-ba48-372ea8abc55c" />)
 
 ---
 
 ## Neural Network Prediction Output
-![Prediction Output](ADD_IMAGE_LINK_HERE)
+![Prediction Output](<img width="1318" height="818" alt="Image" src="https://github.com/user-attachments/assets/e30a577e-d05f-4ff7-915e-ec24fcafa24e" />)
 
 ---
 
 ## Training Loss Visualization
-![Loss Graph](ADD_IMAGE_LINK_HERE)
+![Loss Graph](<img width="1199" height="655" alt="Image" src="https://github.com/user-attachments/assets/8a103ce4-4b36-4074-8042-937b7662bcd8" />)
 
 ---
 
