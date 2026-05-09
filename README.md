@@ -15,7 +15,7 @@ Unlike traditional ML projects that rely entirely on TensorFlow or Scikit-learn 
 
 # 🚀 Live Demo
 
-🔗 [Add Your Deployment Link Here]
+🔗 [https://neuroplacement-ai-aryan-sharma.streamlit.app/]
 
 ---
 
