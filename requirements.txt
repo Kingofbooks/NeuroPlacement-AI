@@ -5,3 +5,9 @@ scikit-learn
 openai-whisper
 torch
 pyttsx3
+streamlit-mic-recorder  
+sounddevice 
+soundfile 
+scipy
+audio-recorder-streamlit  
+pyttsx3     
