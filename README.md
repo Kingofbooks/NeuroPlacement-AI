@@ -1,8 +1,8 @@
-# 🎙️ NeuroPlacement AI
+# 🎙️ NeuroPlacement 
 
-An end-to-end AI-powered placement prediction system built using a completely custom Neural Network implemented from scratch using NumPy.
+An end-to-end placement prediction system built using a completely custom Neural Network implemented from scratch using NumPy.
 
-NeuroPlacement AI combines:
+NeuroPlacement combines:
 - 🧠 Deep Learning Fundamentals
 - 🎤 Speech-to-Text AI
 - 🔊 Voice-Based Interaction
